@@ -40,7 +40,4 @@ Extra points for:
 
 Feel free to use any component library of your preference.
 
-If you have any question you can send an email to:
-[careers@cliqdigital.com](mailto:careers@cliqdigital.com)
-
 Good luck.
