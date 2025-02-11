@@ -1,7 +1,6 @@
 # React tech assignment - CliqDigital 🌦
 
-In this assignment, you are required to implement a weather app based on a Figma design, using React.
-Users can enter a city's name, and we will display the current weather, a five-day forecast, and daily evolution. Users can switch between Fahrenheit and Celsius for current weather.
+This assignment requires implementing a weather app using NextJs and React, based on a Figma design. The app should allow users to search for cities and display their current weather, five-day forecast, and daily weather evolution. Users should be able to toggle between Fahrenheit and Celsius units for current weather display. On initial page load, the app should detect and display weather information for the user's current location.
 
 Create a repository on your GitHub and push the assignment to it. Then, send us the link to your repository.
 
