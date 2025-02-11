@@ -20,23 +20,35 @@ These API endpoints can be utilized to retrieve weather information.
 
 ## What we are looking for in this assignment
 
-- The Project Structure
-- Implementing the Project Using NextJs
-- How Implementation is Close to Design
-- Maintaining Clean Code and Best Practices
-- Responsive Design and Mobile-First Approach
-- Semantic HTML tags
-- Handling API Loading and Errors
-- Setting up the Project: Formatter and Linter
-- Defining and Managing Styles
+### Tech
+
+- ✅ TypeScript
+- ✅ NextJs
+- ✅ Semantic HTML & Accessibility (a11y best practices)
+- ✅ Git – meaningful commit history
+- ✅ Unit tests for key components
+- ✅ Clean code & best practices
+- ✅ Handling loading states, errors, and edge cases
+
+### The Project Structure
+
+- ✅ Project organization & folder structure – how scalable and maintainable it is
+- ✅ formatter and Linter
+- ✅ A well-documented README
+
+### UI/UX
+
+- ✅ Pixel-perfect implementation of the design
+- ✅ Responsive design & mobile-first approach
+- ✅ Well-organized styling
+- ✅ Show us you have an eye for details and User experience
 
 Extra points for:
 
-- Unit test
-- TypeScript
-- Storybook
-- Setup pre-commit using Formatter and Linter
-- Implement daily chart by yourself
+- 🚀 Storybook (even one component will be appreciate it!)
+- 🚀 Setup pre-commit using Formatter and Linter
+- 🚀 Implement daily chart by yourself
+- 🚀 Surprise us: Show off a cool animation, micro-interaction, or creative feature!
 
 Feel free to use any component library of your preference.
 
